@@ -1,4 +1,4 @@
-1. docker --version (Check docker version)
+1. docker --version (Check the docker version)
 2. docker-compose --version(Check docker compose version)
 3. docker-compose -f.\docker-compose-LocalExecutor.yml up -d (We can pull required services using docker compose file ,
                     we get everything from Puckel github)(-d for running logs on backend)
